@@ -1,3 +1,45 @@
+
+The Gym Workout website was created using React and is combined with some APIs. It includes the following features:
+
+- Basic search functionality.
+- YouTube video API integration for opening videos.
+
+#DEMO: 
+
+
+
+
+
+https://github.com/kiritokaka208/WebGym_ex/assets/47194241/220e2443-078f-4405-9f56-1601a6ef81dc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
